@@ -9,6 +9,7 @@
 #define Pinch_hpp
 
 #include <stdio.h>
+#include <string>
 
 class Pinch
 {
